@@ -1,0 +1,14 @@
+            - name: My Awesome list
+  # You may pin to the exact commit or the version.
+  # uses: simonecorsi/mawesome@fe15d9358c9e9837a6375570e0690d7e6bc568d8
+  uses: simonecorsi/mawesome@v1.0.32
+  with:
+    # Github token
+    github-token: 
+    # Personal API Token
+    api-token: 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
+    # Name shown in the commit
+    github-name: # optional
+    # Email shown in the commit
+    github-email: # optional
+          
