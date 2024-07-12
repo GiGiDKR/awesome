@@ -1,4 +1,4 @@
-            - name: My Awesome list
+name: My Awesome list
   # You may pin to the exact commit or the version.
   # uses: simonecorsi/mawesome@fe15d9358c9e9837a6375570e0690d7e6bc568d8
   uses: simonecorsi/mawesome@v1.0.32
